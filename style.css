@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    position: relative;
+    margin: 4rem auto .5rem;
+    width: 270px;
+    font-family: 'Linux Libertine', sans-serif;
+    font-feature-settings: "ss05";
+}
+
+header img{
+    position: absolute;
+    top: 140px;
+    left: 30px;
+}
+
+.sitios{
+    position: relative;
+    width: 550px;
+    height: 325px;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.sitios .sitio1{
+    position: absolute;
+    top: 0;
+    right: 60%;
+}
+
+.sitios .sitio2{
+    position: absolute;
+    top: 0;
+    left: 60%;
+}
+
+.sitios .sitio3{
+    position: absolute;
+    top: 20%;
+    right: 70%;
+}
+.sitios .sitio4{
+    position: absolute;
+    top: 20%;
+    left: 70%;
+}
+
+.sitios .sitio5{
+    position: absolute;
+    top: 40%;
+    right: 72%;
+}
+
+.sitios .sitio6{
+    position: absolute;
+    top: 40%;
+    left: 72%;
+}
+
+.sitios .sitio7{
+    position: absolute;
+    top: 60%;
+    right: 70%;
+}
+
+.sitios .sitio8{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+}
+
+.sitios .sitio9{
+    position: absolute;
+    top: 80%;
+    right: 60%;
+}
+
+.sitios .sitio10{
+    position: absolute;
+    top: 80%;
+    left: 60%;
+}
+
+.main-search{
+    width: 550px;
+    margin: 0 auto;
+}
